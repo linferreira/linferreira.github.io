@@ -70,16 +70,6 @@
     animation: b 2s infinite normal forwards;
 }
 
-.portfolio__item__hide {
-    -webkit-animation: f 1.1s forwards ease;
-    animation: f 1.1s forwards ease;
-}
-
-.portfolio__item__show {
-    -webkit-animation: g 1.1s forwards ease;
-    animation: g 1.1s forwards ease;
-}
-
 .about-me__container {
     -webkit-animation: i 0.5s forwards linear;
     animation: i 0.5s forwards linear;

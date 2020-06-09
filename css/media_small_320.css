@@ -46,7 +46,6 @@
     }
     /*** About ***/
     .about__title,
-    .portfolio__title,
     .contact__title {
         font-size: 2em;
     }
@@ -86,7 +85,6 @@
     .about__btn {
         padding-bottom: 2px;
     }
-    /*** Portfolio ***/
     /*** Contact ***/
     .contact {
         padding-bottom: 2em;
